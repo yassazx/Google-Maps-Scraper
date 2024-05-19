@@ -19,14 +19,7 @@ Clone the repository:
 git clone https://github.com/yassazx/Google-Maps-Scraper.git
 cd Google-Maps-Scraper
 ```
-Create and activate a virtual environment:
-```python
-python -m venv myenv
-# On Windows
-.\myenv\Scripts\activate
-# On macOS and Linux
-source myenv/bin/activate
-```
+
 Install the required packages:
 ```python
 pip install -r requirements.txt
