@@ -1,5 +1,5 @@
 # Google Maps Scraper
-The Google Maps Scraper Project is a Python tool that automates the extraction of business details from Google Maps, including names, addresses, websites, phone numbers, reviews, and geolocation data, saving the results to Excel and CSV files.
+The Google Maps Scraper is a Python-based tool designed to automate the extraction of business information from Google Maps. Utilizing the Playwright library for web automation, this scraper performs targeted searches, collects business data, and compiles them into Excel and CSV files.
 
 ## Features
 Automated Searches: Input search terms to find businesses on Google Maps.
