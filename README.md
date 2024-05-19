@@ -16,8 +16,8 @@ OpenPyxl
 ## Installation
 Clone the repository:
 ```python
-git clone https://github.com/yassazx/Google-Maps-Scraper.git
-cd Google-Maps-Scraper
+git clone https://github.com/yassazx/google-maps-scraper.git
+cd google-maps-scraper
 ```
 
 Install the required packages:
